@@ -3,6 +3,6 @@ module.exports = {
 	HTTP_PORT: 4000,
 
 	// MongoDB URL
-	MongoURL: "mongodb://127.0.0.1:27017/songapi_db"
+	MongoURL: "mongodb://music:music123@ds145669.mlab.com:45669/music"
 
 };

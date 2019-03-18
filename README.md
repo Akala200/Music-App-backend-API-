@@ -16,7 +16,6 @@
 #### First clone the repo
 
 ``` 
-git clone https://github.com/BisratYalew/NodeJs-Music-API
 ```
 
 #### Then
@@ -30,16 +29,7 @@ npm start
 ```
 
 
-<br><br><br>
-
-
-## Contributing
-
-Feel free to contribute and send pull requests. Not completed will update faster!
-
-## Author
-
-* [BisratYalew](https://bisratyalew.github.io)
+<br><br>
 
 ## Licence
 
